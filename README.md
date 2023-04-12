@@ -9,7 +9,10 @@ First, import the PingDevice class:
 
 ```sh
 In [7]: from ping-module import PingDevice
+```
 
+Create object and call ping() method.
+```sh
 In [8]: a = PingDevice(host="192.168.178.1")
 
 In [9]: a.ping()
