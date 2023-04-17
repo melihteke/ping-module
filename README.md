@@ -8,7 +8,7 @@ The PingDevice class requires Python 3.6 or later. There are no additional depen
 First, import the PingDevice class:
 
 ```sh
-In [7]: from ping-module import PingDevice
+In [7]: from ping_module import PingDevice
 ```
 
 Create object and call ping() method.
