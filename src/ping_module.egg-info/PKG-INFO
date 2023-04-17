@@ -1,3 +1,17 @@
+Metadata-Version: 2.1
+Name: ping-module
+Version: 1.0
+Summary: A lightweight ping module returning boolean
+Author-email: Melih Teke <me@mteke.com>
+Project-URL: Homepage, https://github.com/melihteke/ping-module.git
+Project-URL: Bug Tracker, https://github.com/melihteke/ping-module/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENCE
+
 ## PingDevice Class
 The PingDevice class is a Python class that allows you to check if a device is online by pinging its IP address.
 
