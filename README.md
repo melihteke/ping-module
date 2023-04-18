@@ -4,6 +4,14 @@ The PingDevice class is a Python class that allows you to check if a device is o
 ### Installation
 The PingDevice class requires Python 3.6 or later. There are no additional dependencies required.
 
+### Package
+https://pypi.org/project/ping-module/1.0/
+
+```sh
+pip install ping-module==1.0
+```
+
+
 ### Usage
 First, import the PingDevice class:
 
